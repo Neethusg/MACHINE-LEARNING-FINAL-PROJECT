@@ -2,7 +2,7 @@
 ML FINAL PROJECT
 # MACHINE LEARNING FINAL PROJECT 
 
-# 🚲 Bike Sharing Demand Prediction
+# 🚲 Bike Rental Demand Prediction
 
 ## 📌 Project Goals
 
